@@ -4,3 +4,7 @@ body{
 header{
 font-size: large;
 }
+
+.slider{
+    background-color: blue;
+}
